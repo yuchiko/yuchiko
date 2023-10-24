@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Yuriy!
 
+- 🌱 I’m currently learning Ember.js
+- 💬 Ask me about anything
 
-<img align="" src="https://github.com/yuchiko/yuchiko/blob/main/pony_03.gif" />
+
+<img align="" src="https://github.com/yuchiko/yuchiko/blob/main/code.gif" />
 
 
 <!--
