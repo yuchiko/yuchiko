@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yuriy!
 
-<img align="" width="99.9%" src="https://github.com/yuchiko/yuchiko/code.gif" />
+<img align="" width="99.9%" src="https://github.com/yuchiko/yuchiko/blob/main/code.gif" />
 
 <!--
 **yuchiko/yuchiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
