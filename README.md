@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Yuriy!
 
-<div style="display: flex; justify-content: space-between;">
-  <img align="" width="30%" src="https://github.com/yuchiko/yuchiko/blob/main/pony_01.gif" />
-  <img align="" width="30%" src="https://github.com/yuchiko/yuchiko/blob/main/pony_02.gif" />
-  <img align="" width="30%" src="https://github.com/yuchiko/yuchiko/blob/main/pony_03.gif" />
-</div>
+
+<img align="" src="https://github.com/yuchiko/yuchiko/blob/main/pony_03.gif" />
+
 
 <!--
 **yuchiko/yuchiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
